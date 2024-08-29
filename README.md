@@ -9,3 +9,7 @@ $$
 $$
 \Huge b_{\text{new}} = \frac{b_{\text{reference}-\sigma}}{b_{\text{source}-\sigma}} \left(b_{\text{source}} - b_{\text{source}-\mu}\right) + b_{\text{reference}-\mu}
 $$
+
+$$
+L_{\text{source-}\sigma}
+$$
