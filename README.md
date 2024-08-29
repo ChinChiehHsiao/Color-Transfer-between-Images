@@ -11,5 +11,5 @@ $$
 $$
 
 $$
-L_{\text{source-}\sigma}
+L_{\text{source_}\sigma}
 $$
