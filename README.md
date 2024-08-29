@@ -1,4 +1,4 @@
-$$
+# $$
 L_{\text{new}} = \frac{L_{\text{reference}-\sigma}}{L_{\text{source}-\sigma}} \left(L_{\text{source}} - L_{\text{source}-\mu}\right) + L_{\text{reference}-\mu}
 $$
 
