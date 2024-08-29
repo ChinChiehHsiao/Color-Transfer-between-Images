@@ -3,7 +3,7 @@
 
 
 
-REINHARD, Erik, et al. Color transfer between images. IEEE Computer graphics and applications, 2001, 21.5: 34-41.<br><br>
+References : REINHARD, Erik, et al. Color transfer between images. IEEE Computer graphics and applications, 2001, 21.5: 34-41.<br><br>
 圖像顏色遷移文章復現<br>
 使用python<br><br>
 - 原文PDF &nbsp;&nbsp;：[點擊此鏈接](https://www.cs.tau.ac.il/~turkel/imagepapers/ColorTransfer.pdf)
