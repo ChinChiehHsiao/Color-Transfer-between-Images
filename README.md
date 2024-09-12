@@ -17,5 +17,6 @@ Reference : REINHARD, Erik, et al. Color transfer between images. IEEE Computer 
 關於
 ---
 
+- 聯繫 : jayabc321@gmail.com
 - 復現 : 蕭晉杰
 - 時間 : 2024.08.29
